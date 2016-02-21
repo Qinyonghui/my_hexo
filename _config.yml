@@ -71,6 +71,6 @@ theme: yilia
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Qinyonghui/Qinyonghui.github.io.git
-#  repo: git@github.com:Qinyonghui/Qinyonghui.github.io.git
+#  repo: https://github.com/Qinyonghui/Qinyonghui.github.io.git
+  repo: git@github.com:Qinyonghui/Qinyonghui.github.io.git
   branch: master
