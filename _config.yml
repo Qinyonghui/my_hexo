@@ -64,11 +64,13 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 #theme: landscape
-theme: TKL
+#theme: TKL
+theme: yilia
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/Qinyonghui/Qinyonghui.github.io.git
+#  repo: git@github.com:Qinyonghui/Qinyonghui.github.io.git
   branch: master
