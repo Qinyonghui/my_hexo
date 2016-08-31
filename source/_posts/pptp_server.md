@@ -111,3 +111,5 @@ netstat -lntp
 ```bash
 wget https://github.com/Qinyonghui/my_hexo/tree/master/source/script/pptp.sh
 ```
+
+参考: http://yansu.org/2013/12/11/deploy-pptp-vpn-in-ubuntu.html
