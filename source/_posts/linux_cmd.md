@@ -8,4 +8,8 @@ vim /boot/grub/menu.lst
 ```
 vga=ask
 
+
 sudo dpkg-reconfigure console-setup
+
+
+initctl list
