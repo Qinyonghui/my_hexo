@@ -13,3 +13,15 @@ sudo dpkg-reconfigure console-setup
 
 
 initctl list
+
+```
+#查看运行等级
+runlevel
+```
+
+```
+#添加启动服务
+sudo update-rc.d pptpd defaults 95
+#去除启动服务
+sudo update-rc.d -f pptpd remove
+```
